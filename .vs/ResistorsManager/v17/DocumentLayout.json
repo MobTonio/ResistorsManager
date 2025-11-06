@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ResistorsManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCA319F-AA09-4A6B-9FB2-11DF21D51CD4}|ResistorsManager\\ResistorsManager.csproj|c:\\users\\user\\source\\repos\\resistorsmanager\\resistorsmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCA319F-AA09-4A6B-9FB2-11DF21D51CD4}|ResistorsManager\\ResistorsManager.csproj|solutionrelative:resistorsmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCA319F-AA09-4A6B-9FB2-11DF21D51CD4}|ResistorsManager\\ResistorsManager.csproj|c:\\users\\user\\source\\repos\\resistorsmanager\\resistorsmanager\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCA319F-AA09-4A6B-9FB2-11DF21D51CD4}|ResistorsManager\\ResistorsManager.csproj|solutionrelative:resistorsmanager\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCA319F-AA09-4A6B-9FB2-11DF21D51CD4}|ResistorsManager\\ResistorsManager.csproj|c:\\users\\user\\source\\repos\\resistorsmanager\\resistorsmanager\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCA319F-AA09-4A6B-9FB2-11DF21D51CD4}|ResistorsManager\\ResistorsManager.csproj|solutionrelative:resistorsmanager\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCA319F-AA09-4A6B-9FB2-11DF21D51CD4}|ResistorsManager\\ResistorsManager.csproj|c:\\users\\user\\source\\repos\\resistorsmanager\\resistorsmanager\\models\\resistor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCA319F-AA09-4A6B-9FB2-11DF21D51CD4}|ResistorsManager\\ResistorsManager.csproj|solutionrelative:resistorsmanager\\models\\resistor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCA319F-AA09-4A6B-9FB2-11DF21D51CD4}|ResistorsManager\\ResistorsManager.csproj|C:\\Users\\user\\source\\repos\\ResistorsManager\\resistorsmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFCA319F-AA09-4A6B-9FB2-11DF21D51CD4}|ResistorsManager\\ResistorsManager.csproj|solutionrelative:resistorsmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCA319F-AA09-4A6B-9FB2-11DF21D51CD4}|ResistorsManager\\ResistorsManager.csproj|c:\\users\\user\\source\\repos\\resistorsmanager\\resistorsmanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCA319F-AA09-4A6B-9FB2-11DF21D51CD4}|ResistorsManager\\ResistorsManager.csproj|solutionrelative:resistorsmanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCA319F-AA09-4A6B-9FB2-11DF21D51CD4}|ResistorsManager\\ResistorsManager.csproj|c:\\users\\user\\source\\repos\\resistorsmanager\\resistorsmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCA319F-AA09-4A6B-9FB2-11DF21D51CD4}|ResistorsManager\\ResistorsManager.csproj|solutionrelative:resistorsmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCA319F-AA09-4A6B-9FB2-11DF21D51CD4}|ResistorsManager\\ResistorsManager.csproj|c:\\users\\user\\source\\repos\\resistorsmanager\\resistorsmanager\\managers\\datagridviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCA319F-AA09-4A6B-9FB2-11DF21D51CD4}|ResistorsManager\\ResistorsManager.csproj|solutionrelative:resistorsmanager\\managers\\datagridviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCA319F-AA09-4A6B-9FB2-11DF21D51CD4}|ResistorsManager\\ResistorsManager.csproj|c:\\users\\user\\source\\repos\\resistorsmanager\\resistorsmanager\\resistorsmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BFCA319F-AA09-4A6B-9FB2-11DF21D51CD4}|ResistorsManager\\ResistorsManager.csproj|solutionrelative:resistorsmanager\\resistorsmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ResistorsManager\\ResistorsManager\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "ResistorsManager\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ResistorsManager\\ResistorsManager\\Services\\FileService.cs",
+              "RelativeToolTip": "ResistorsManager\\Services\\FileService.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAJQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T17:22:59.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ResistorsManager\\ResistorsManager\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "ResistorsManager\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ResistorsManager\\ResistorsManager\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "ResistorsManager\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T17:22:13.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataGridViewManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ResistorsManager\\ResistorsManager\\Managers\\DataGridViewManager.cs",
+              "RelativeDocumentMoniker": "ResistorsManager\\Managers\\DataGridViewManager.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ResistorsManager\\ResistorsManager\\Managers\\DataGridViewManager.cs",
+              "RelativeToolTip": "ResistorsManager\\Managers\\DataGridViewManager.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T17:20:23.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ResistorsManager\\ResistorsManager\\Program.cs",
+              "RelativeDocumentMoniker": "ResistorsManager\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ResistorsManager\\ResistorsManager\\Program.cs",
+              "RelativeToolTip": "ResistorsManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:21:41.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ResistorsManager\\ResistorsManager\\Form1.cs",
+              "RelativeDocumentMoniker": "ResistorsManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ResistorsManager\\ResistorsManager\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ResistorsManager\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T12:02:12.681Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ResistorsManager\\ResistorsManager\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ResistorsManager\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ResistorsManager\\ResistorsManager\\Form1.Designer.cs",
+              "RelativeToolTip": "ResistorsManager\\Form1.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T12:01:26.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ResistorsManager\\ResistorsManager\\Form1.cs",
+              "RelativeDocumentMoniker": "ResistorsManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ResistorsManager\\ResistorsManager\\Form1.cs",
+              "RelativeToolTip": "ResistorsManager\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:58:13.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resistor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ResistorsManager\\ResistorsManager\\Models\\Resistor.cs",
+              "RelativeDocumentMoniker": "ResistorsManager\\Models\\Resistor.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ResistorsManager\\ResistorsManager\\Models\\Resistor.cs",
+              "RelativeToolTip": "ResistorsManager\\Models\\Resistor.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:56:01.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResistorsManager.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ResistorsManager\\ResistorsManager\\ResistorsManager.csproj",
+              "RelativeDocumentMoniker": "ResistorsManager\\ResistorsManager.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ResistorsManager\\ResistorsManager\\ResistorsManager.csproj",
+              "RelativeToolTip": "ResistorsManager\\ResistorsManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T11:51:01.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
